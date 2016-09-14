@@ -1,4 +1,4 @@
-package com.github.gcsgiva.leilao;
+package com.github.gcsgivanildo.leilao;
 
 public class Lance {
 

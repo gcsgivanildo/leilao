@@ -1,8 +1,12 @@
-package com.github.gcsgiva.leilao;
+package com.github.gcsgivanildo.leilao;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.github.gcsgivanildo.leilao.Item;
+import com.github.gcsgivanildo.leilao.Lance;
+import com.github.gcsgivanildo.leilao.Usuario;
 
 public class TesteLance {
 
